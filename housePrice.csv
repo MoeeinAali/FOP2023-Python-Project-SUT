@@ -707,7 +707,6 @@ Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
 117,2,True,True,True,,6500000000.0,216666.67
 118,2,True,True,True,Shahran,3900000000.0,130000.0
 151,3,True,True,True,Shahrake Qods,1510000000.0,50333.33
-" 16,160,000,000 ",3,True,True,True,Pasdaran,16160000000.0,538666.67
 86,2,True,True,True,Pardis,500000000.0,16666.67
 85,2,True,True,True,Pardis,600000000.0,20000.0
 86,2,True,True,True,Pardis,750000000.0,25000.0
